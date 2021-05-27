@@ -1,4 +1,15 @@
-### Hi there 👋
+# Daryoush Ghoreishi
+
+Hello! My name is Daryoush Ghoreishi and I'm a fourth year Computer Science and Business Management Economics major. I'm currently learning Full Stack Web Development with the hope of building a web application that utilizes blockchain technology. 
+
+## Web Development
+* HTML
+* CSS
+* Javascript
+
+## Game Development
+* Unity
+* C#
 
 <!--
 **DaryoushShah/DaryoushShah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
