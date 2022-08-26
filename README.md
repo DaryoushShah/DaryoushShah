@@ -1,6 +1,6 @@
 # Daryoush Ghoreishi
 
-Hello! My name is Daryoush Ghoreishi and I'm a third year Computer Science and Business Management Economics major. I'm currently learning Full Stack Web Development with the hope of building a web application that utilizes blockchain technology. 
+Hello! My name is Daryoush Ghoreishi and I'm a fifth year Computer Science and Business Management Economics major. I'm currently learning Full Stack Web Development with the hope of building a web application that utilizes blockchain technology. 
 
 ## Web Development
 * HTML
