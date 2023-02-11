@@ -2,10 +2,14 @@
 
 Hello! My name is Daryoush Ghoreishi and I'm a fifth year Computer Science and Business Management Economics major.
 
-## Web Development
+## Frontend Development
 * HTML
 * CSS
 * Javascript
+
+## Backend Development
+* Node.js
+* Express.js
 
 ## Game Development
 * Unity
