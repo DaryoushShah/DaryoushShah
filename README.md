@@ -1,6 +1,6 @@
-# Daryoush Ghoreishi
+# Daryoush
 
-Hello! My name is Daryoush Ghoreishi and I'm a fifth year Computer Science and Business Management Economics major.
+Hello! My name is Daryoush and I'm a fifth year Computer Science and Business Management Economics major.
 
 ## Frontend Development
 * HTML
